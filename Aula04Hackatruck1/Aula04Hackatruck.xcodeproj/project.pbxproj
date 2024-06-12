@@ -1,0 +1,363 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03EAB4D82C18F89E00742209 /* Aula04HackatruckApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EAB4D72C18F89E00742209 /* Aula04HackatruckApp.swift */; };
+		03EAB4DA2C18F89E00742209 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EAB4D92C18F89E00742209 /* ContentView.swift */; };
+		03EAB4DC2C18F89F00742209 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03EAB4DB2C18F89F00742209 /* Assets.xcassets */; };
+		03EAB4DF2C18F89F00742209 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03EAB4DE2C18F89F00742209 /* Preview Assets.xcassets */; };
+		03EAB4E62C18FD5100742209 /* RosaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EAB4E52C18FD5100742209 /* RosaView.swift */; };
+		03EAB4E82C19011F00742209 /* AzulView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EAB4E72C19011F00742209 /* AzulView.swift */; };
+		03EAB4EA2C19018800742209 /* CinzaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EAB4E92C19018800742209 /* CinzaView.swift */; };
+		03EAB4EC2C19032D00742209 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03EAB4EB2C19032D00742209 /* ListView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		03EAB4D42C18F89E00742209 /* Aula04Hackatruck.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Aula04Hackatruck.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		03EAB4D72C18F89E00742209 /* Aula04HackatruckApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aula04HackatruckApp.swift; sourceTree = "<group>"; };
+		03EAB4D92C18F89E00742209 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		03EAB4DB2C18F89F00742209 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		03EAB4DE2C18F89F00742209 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		03EAB4E52C18FD5100742209 /* RosaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RosaView.swift; sourceTree = "<group>"; };
+		03EAB4E72C19011F00742209 /* AzulView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AzulView.swift; sourceTree = "<group>"; };
+		03EAB4E92C19018800742209 /* CinzaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CinzaView.swift; sourceTree = "<group>"; };
+		03EAB4EB2C19032D00742209 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		03EAB4D12C18F89E00742209 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		03EAB4CB2C18F89E00742209 = {
+			isa = PBXGroup;
+			children = (
+				03EAB4D62C18F89E00742209 /* Aula04Hackatruck */,
+				03EAB4D52C18F89E00742209 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		03EAB4D52C18F89E00742209 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				03EAB4D42C18F89E00742209 /* Aula04Hackatruck.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		03EAB4D62C18F89E00742209 /* Aula04Hackatruck */ = {
+			isa = PBXGroup;
+			children = (
+				03EAB4D72C18F89E00742209 /* Aula04HackatruckApp.swift */,
+				03EAB4E52C18FD5100742209 /* RosaView.swift */,
+				03EAB4D92C18F89E00742209 /* ContentView.swift */,
+				03EAB4DB2C18F89F00742209 /* Assets.xcassets */,
+				03EAB4E92C19018800742209 /* CinzaView.swift */,
+				03EAB4EB2C19032D00742209 /* ListView.swift */,
+				03EAB4E72C19011F00742209 /* AzulView.swift */,
+				03EAB4DD2C18F89F00742209 /* Preview Content */,
+			);
+			path = Aula04Hackatruck;
+			sourceTree = "<group>";
+		};
+		03EAB4DD2C18F89F00742209 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				03EAB4DE2C18F89F00742209 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		03EAB4D32C18F89E00742209 /* Aula04Hackatruck */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 03EAB4E22C18F89F00742209 /* Build configuration list for PBXNativeTarget "Aula04Hackatruck" */;
+			buildPhases = (
+				03EAB4D02C18F89E00742209 /* Sources */,
+				03EAB4D12C18F89E00742209 /* Frameworks */,
+				03EAB4D22C18F89E00742209 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Aula04Hackatruck;
+			productName = Aula04Hackatruck;
+			productReference = 03EAB4D42C18F89E00742209 /* Aula04Hackatruck.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		03EAB4CC2C18F89E00742209 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					03EAB4D32C18F89E00742209 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = 03EAB4CF2C18F89E00742209 /* Build configuration list for PBXProject "Aula04Hackatruck" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 03EAB4CB2C18F89E00742209;
+			productRefGroup = 03EAB4D52C18F89E00742209 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				03EAB4D32C18F89E00742209 /* Aula04Hackatruck */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		03EAB4D22C18F89E00742209 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03EAB4DF2C18F89F00742209 /* Preview Assets.xcassets in Resources */,
+				03EAB4DC2C18F89F00742209 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		03EAB4D02C18F89E00742209 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03EAB4E82C19011F00742209 /* AzulView.swift in Sources */,
+				03EAB4EA2C19018800742209 /* CinzaView.swift in Sources */,
+				03EAB4EC2C19032D00742209 /* ListView.swift in Sources */,
+				03EAB4E62C18FD5100742209 /* RosaView.swift in Sources */,
+				03EAB4DA2C18F89E00742209 /* ContentView.swift in Sources */,
+				03EAB4D82C18F89E00742209 /* Aula04HackatruckApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		03EAB4E02C18F89F00742209 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		03EAB4E12C18F89F00742209 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		03EAB4E32C18F89F00742209 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Aula04Hackatruck/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Aline-Manhaes.Aula04Hackatruck";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		03EAB4E42C18F89F00742209 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Aula04Hackatruck/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Aline-Manhaes.Aula04Hackatruck";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		03EAB4CF2C18F89E00742209 /* Build configuration list for PBXProject "Aula04Hackatruck" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				03EAB4E02C18F89F00742209 /* Debug */,
+				03EAB4E12C18F89F00742209 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		03EAB4E22C18F89F00742209 /* Build configuration list for PBXNativeTarget "Aula04Hackatruck" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				03EAB4E32C18F89F00742209 /* Debug */,
+				03EAB4E42C18F89F00742209 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 03EAB4CC2C18F89E00742209 /* Project object */;
+}
