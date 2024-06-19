@@ -19,3 +19,5 @@ Repositório para guardar meus arquivos de SwiftUI do HackaTruck presencial
 **Aula6:** Criacao de mapas com Annotations para cada um dos 5 países escolhidos para colocar no mapa. Ao clicar em um dos países no mapa, abre uma aba com uma descricao do país. Ao clicar na bandeira do país no Scroll Horizontal embaixo, abre o mapa na localizacao do país.
 
 **Aula7:** Leitura de uma API de Harry Potter (Grifinória), que exibe com NavigationStack o que foi salvo dentro de uma lista.
+
+**Aula8:** Criacao de uma API pelo Node-Red e Postman, leitura da mesma e criacao de um app com visualizacao de List e NavigationStack.
