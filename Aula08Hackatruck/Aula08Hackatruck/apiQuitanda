@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "857a52a8dc47d3beb5099bead58604f5",
+        "_rev": "2-9a1765e5e95ba4f29aa285a724984ca0",
+        "nomeQuitanda": "Super Quitanda",
+        "enderecoQuitanda": "Rua Oswaldo",
+        "frutasDisponiveis": [
+            {
+                "nome": "banana",
+                "foto": "https://png.pngtree.com/png-clipart/20210530/original/pngtree-banana-vitamin-fruit-diet-png-image_6343208.png"
+            },
+            {
+                "nome": "maca",
+                "foto": "https://static.vecteezy.com/system/resources/previews/029/284/187/non_2x/red-apple-red-apple-red-apple-with-transparent-background-ai-generative-free-png.png"
+            }
+        ]
+    },
+    {
+        "_id": "857a52a8dc47d3beb5099bead589351b",
+        "_rev": "2-87dacab1bce42535093233e2587bdb18",
+        "nomeQuitanda": "Delirius Quitanda",
+        "enderecoQuitanda": "Avenida Estudante",
+        "frutasDisponiveis": [
+            {
+                "nome": "abacaxi",
+                "foto": "https://i.pinimg.com/originals/30/a3/f8/30a3f885fa5b26244d1f8819a94869b5.png"
+            },
+            {
+                "nome": "tomate",
+                "foto": "https://static.vecteezy.com/system/resources/previews/029/283/850/non_2x/single-tomato-tomato-red-tomato-red-tomato-clipart-transparent-background-ai-generative-free-png.png"
+            },
+            {
+                "nome": "morango",
+                "foto": "https://static.vecteezy.com/system/resources/previews/025/067/637/non_2x/strawberry-with-ai-generated-free-png.png"
+            },
+            {
+                "nome": "uva",
+                "foto": "https://static.vecteezy.com/system/resources/previews/027/216/079/non_2x/grapes-grapes-grapes-transparent-background-ai-generated-free-png.png"
+            }
+        ]
+    },
+    {
+        "_id": "99b6a21fd81bacdf1d901b2838b8ebd5",
+        "_rev": "2-2b659f3d7b05cdbef3eb0c6bac57a46a",
+        "nomeQuitanda": "Rainha da Quitanda",
+        "enderecoQuitanda": "Rua Osmar",
+        "frutasDisponiveis": [
+            {
+                "nome": "laranja",
+                "foto": "https://www.imagensempng.com.br/wp-content/uploads/2021/07/02-12.png"
+            },
+            {
+                "nome": "carambola",
+                "foto": "https://static.vecteezy.com/system/resources/previews/029/334/947/original/carambola-transparent-background-png.png"
+            }
+        ]
+    }
+]
