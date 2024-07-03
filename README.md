@@ -21,3 +21,5 @@ Repositório para guardar meus arquivos de SwiftUI do HackaTruck presencial
 **Aula7:** Leitura de uma API de Harry Potter (Grifinória), que exibe com NavigationStack o que foi salvo dentro de uma lista.
 
 **Aula8:** Criacao de uma API pelo Node-Red e Postman, leitura da mesma e criacao de um app com visualizacao de List e NavigationStack.
+
+**HackaTravel:** Projeto final do HackaTruck presencial. O projeto é de um app que conecta viajantes de todo o mundo, exibindo universidades com cursos de intercâmbios, famílias (host families) que estejam dispostas a receber viajantes/estudantes e pessoas que queiram companhias e conhecer outras pessoas em suas viagens. O app permite pesquisas por países e através de um mapa. Além disso, disponibiliza chat entre os usuários, universidades e famílias.
