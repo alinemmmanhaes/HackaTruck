@@ -1,5 +1,5 @@
 # HackaTruck
-Repositório para guardar meus arquivos de SwiftUI do HackaTruck presencial
+Descrição dos arquivos de SwiftUI do HackaTruck versão presencial
 
 **Aula1:**
 - Desafio1: 4 retângulos coloridos, um em cada ponta.
